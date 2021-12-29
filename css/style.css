@@ -25,6 +25,9 @@ body {
   background-color: thistle;
   color: white;
 }
+.amigos ul {
+  background-color: lightblue;
+}
 .amigos li {
   list-style: none;
 }

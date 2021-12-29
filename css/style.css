@@ -5,7 +5,7 @@ body {
 .tarjeta {
   margin: 0 auto;
   width: 60%;
-  height: 600px;
+  height: 660px;
   border: 1px solid black;
 }
 .tarjeta h1 {
@@ -37,6 +37,9 @@ body {
 .trabajo h2 {
   background-color: burlywood;
   color: white;
+}
+.trabajo ul {
+  background-color: magenta;
 }
 .trabajo li {
   list-style: none;

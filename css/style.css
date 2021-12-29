@@ -35,3 +35,8 @@ body {
 .trabajo li {
   list-style: none;
 }
+.anime {
+  width: 70%;
+  height: 300px;
+  border: 1px solid black;
+}

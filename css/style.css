@@ -20,5 +20,11 @@ body {
 }
 .familia li {
   list-style: none;
-  text-decoration: none;
+}
+.amigos h2 {
+  background-color: thistle;
+  color: white;
+}
+.amigos li {
+  list-style: none;
 }

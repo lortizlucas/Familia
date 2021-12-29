@@ -1,0 +1,37 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+.tarjeta {
+  margin: 0 auto;
+  width: 60%;
+  height: 600px;
+  border: 1px solid black;
+}
+.tarjeta h1 {
+  background-color: blue;
+  color: white;
+  border: 1px solid black;
+  padding: 10px;
+}
+.familia h2 {
+  background-color: blueviolet;
+  color: white;
+}
+.familia li {
+  list-style: none;
+}
+.amigos h2 {
+  background-color: thistle;
+  color: white;
+}
+.amigos li {
+  list-style: none;
+}
+.trabajo h2 {
+  background-color: burlywood;
+  color: white;
+}
+.trabajo li {
+  list-style: none;
+}
